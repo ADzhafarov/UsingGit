@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
 		
 		String hello = "Hello, Git!";
 	}
+	
+	//Add FireBase authentication!
 }
