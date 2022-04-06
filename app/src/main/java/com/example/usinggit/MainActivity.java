@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
 	}
 	
 	//Add FireBase authentication!
+	//Add login UI
 }
