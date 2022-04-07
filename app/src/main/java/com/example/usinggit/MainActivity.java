@@ -17,4 +17,5 @@ public class MainActivity extends AppCompatActivity {
 	//Add FireBase authentication!
 	//Add login UI
 	//Code after pushing to remote repo
+	//Another testing code
 }
